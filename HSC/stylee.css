@@ -1,0 +1,54 @@
+@import url('https://fonts.cdnfonts.com/css/boba-milky');
+@import url('https://fonts.cdnfonts.com/css/chistoso');
+@import url('https://fonts.cdnfonts.com/css/melancholy-serif');
+@import url('https://fonts.cdnfonts.com/css/icbm-ss-2025');
+@import url('https://fonts.cdnfonts.com/css/sanford');
+@import url('https://fonts.cdnfonts.com/css/shoemaker');
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Lato', sans-serif;
+  font-family: 'Oswald', sans-serif;
+}
+.text-portofolio{
+  font-family: 'Shoemaker', sans-serif;
+}
+
+.text-school {
+  font-size: 2em;
+  font-family: 'Boba Milky', sans-serif;
+}
+
+.text-shcooling-2 {
+  font-size: 2em;
+  font-family: 'Chistoso', sans-serif;
+}
+.text-image-2{
+  font-family: 'Sanford', sans-serif;             
+}
+
+#text-about {
+  font-family: 'Melancholy Serif', sans-serif;
+}
+.text-image {
+  font-family: 'Melancholy Serif', sans-serif;
+
+}
+.text-image-1 {
+  font-family: 'ICBM SS-25', sans-serif;
+} 
+
+
+.navbar-nav {
+  margin-left: 0;
+}
+
+.icon {
+  transition: transform 0.3s ease; /* Transisi halus */
+  cursor: pointer;
+}
+
+.icon:hover {
+  transform: translateY(-5px); /* Geser ikon ke atas */
+}
